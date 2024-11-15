@@ -3,7 +3,7 @@
 #Vamos a crear un nuevo archivo .py y copiaremos en Ã©l todas las funciones que hemos definido.
 #Llamaremos a este archivo S4Red.py. Luego, para poder utilizar estas funciones dentro de nuestro archivo
 #principal, utilizaremos la instrucciÃ³n import.
-import S4Red as Red
+import proyecto_red.S4Red as Red
 
 #AquÃ­ empieza el programa principal.
 
